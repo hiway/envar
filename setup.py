@@ -18,4 +18,5 @@ setup(
     author='Harshad Sharma',
     author_email='harshad@sharma.io',
     url='https://www.github.com/hiway/envar/',
+    test_suite='tests',
 )
